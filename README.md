@@ -2,6 +2,11 @@
 
 Exemplo de como criar telas para onboarding de aplicativos.
 
+## Screenshots
+![screenshot-1650826489026](https://user-images.githubusercontent.com/11803107/164992052-4e29325b-9505-4770-8354-44444f9f347d.png)
+![screenshot-1650826504185](https://user-images.githubusercontent.com/11803107/164992075-b9276783-463e-4da0-bc71-4906e888ccca.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
