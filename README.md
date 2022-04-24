@@ -3,8 +3,8 @@
 Exemplo de como criar telas para onboarding de aplicativos.
 
 ## Screenshots
-![screenshot-1650826489026](https://user-images.githubusercontent.com/11803107/164992052-4e29325b-9505-4770-8354-44444f9f347d.png)
-![screenshot-1650826504185](https://user-images.githubusercontent.com/11803107/164992075-b9276783-463e-4da0-bc71-4906e888ccca.png)
+![screenshot-1650826489026](https://user-images.githubusercontent.com/11803107/164992190-0cead1d7-b1ff-4df6-9974-d010f91f0979.png)
+![screenshot-1650826504185](https://user-images.githubusercontent.com/11803107/164992199-070f1cc0-886f-49a5-bc6e-14fab76d0996.png)
 
 
 ## Getting Started
