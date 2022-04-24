@@ -1,6 +1,6 @@
-# onboarding_screen
+# Onboarding Screens
 
-A new Flutter project.
+Exemplo de como criar telas para onboarding de aplicativos.
 
 ## Getting Started
 
